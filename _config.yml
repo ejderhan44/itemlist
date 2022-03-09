@@ -3,7 +3,7 @@ title: "Ejder's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
-baseurl: 'https://ejderhan44.github.io/itemlist/' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://www.twitch.tv/ejder_han' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'ejderhan44'
 github_username: 'ejderhan44'
