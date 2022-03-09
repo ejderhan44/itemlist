@@ -1,9 +1,9 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
+items_tab: 'Esyalar'
+events_tab: 'Olaylar'
+traits_tab: 'Karakterler'
+animals_tab: 'Hayvanlar'
+weapons_tab: 'Silahlar'
 pawn_kinds_tab: 'Pawn Kinds'
 
 # Table headers
